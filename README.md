@@ -14,4 +14,7 @@ Here are the members of my Thesis Committee:
 - Dr. Karen Pelletreau, Ph.D -- Director of Faculty Educational Development in the Center for Innovation in Teaching and Learning, University of Maine Orono
 
 If you're looking for:
-- The full, final thesis manuscript: 
+- The full, final thesis manuscript: [Thesis Manuscript](Thesis_Manuscript.pdf)
+- The presentation I used for my defense: [Defense Presentation](Honors_Thesis_Defense_Presentation.pdf)
+- The problem set used for experimentation: [List of Integrals](Integration_Problems_With_Explanations.pdf)
+- The full dataset of integrals used to build the problem set: [Master List of Integrals](Integration_Master_Sheet.pdf)
